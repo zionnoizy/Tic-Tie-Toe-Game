@@ -1,0 +1,10 @@
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\bin\Debug\TTToe.exe.config
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\bin\Debug\TTToe.exe
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\bin\Debug\TTToe.pdb
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.csprojAssemblyReference.cache
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.Form1.resources
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.Properties.Resources.resources
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.csproj.GenerateResource.cache
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.csproj.CoreCompileInputs.cache
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.exe
+C:\any_program_related\visual studio\source\repos\TTToe\TTToe\obj\Debug\TTToe.pdb
